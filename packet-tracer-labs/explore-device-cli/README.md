@@ -16,3 +16,13 @@ This lab demonstrates accessing and exploring a Cisco switch using the command-l
 
 ## Screenshots
 Screenshots below show the lab instructions, successful completion, and CLI output.
+
+
+### Lab Instructions
+![Lab Instructions](lab-instructions.png)
+
+### CLI Output
+![CLI Output](cli-output.png)
+
+### Successful Completion
+![Lab Complete](lab-complete.png)
