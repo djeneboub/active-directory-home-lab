@@ -64,3 +64,12 @@ Added the IT Admin user to the Domain Admins security group.
 ![User Container](./step4-user-container.png)
 
 Verified the default Users container and confirmed user account placement.
+
+
+## What I Learned
+
+- Built and configured a Windows Server 2022 Active Directory environment
+- Created and managed Organizational Units (OUs) for users and computers
+- Assigned Domain Admin privileges and verified role-based access
+- Strengthened troubleshooting skills by validating configurations step-by-step
+- Documented technical work clearly using GitHub and Markdown
