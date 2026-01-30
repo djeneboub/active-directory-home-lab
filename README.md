@@ -40,27 +40,27 @@ Step-by-step setup notes are available in the `steps` folder.
 ## Lab Walkthrough with Screenshots
 
 ### Step 1: Virtual Machine Setup
-![VM Setup](step1-vm-setup.png)
+![VM Setup](./step1-vm-setup.png)
 
 Configured Windows Server 2022 in VirtualBox, set a static IP address, and renamed the server.
 
 ---
 
 ### Step 2: Organizational Unit (OU) Creation
-![OU Creation](step2-OU-creation.png)
+![OU Creation](./step2-OU-creation.png)
 
 Created Organizational Units (HR, IT) to organize users and computers in Active Directory.
 
 ---
 
 ### Step 3: Domain Admin Configuration
-![Domain Admin](step3-domain-admin.png)
+![Domain Admin](./step3-domain-admin.png)
 
 Added the IT Admin user to the Domain Admins security group.
 
 ---
 
 ### Step 4: User Container Verification
-![User Container](step4-user-container.png)
+![User Container](./step4-user-container.png)
 
 Verified the default Users container and confirmed user account placement.
